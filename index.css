@@ -1,0 +1,144 @@
+.ab {
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    position: absolute;
+    top:10px;
+    left:60px;
+}
+#aa {
+    background: black;
+    position: fixed;
+    top:0px;
+    right:0px;
+    left:0px;
+    height:60px;
+}
+.ac {
+    height:25px;
+    width:35px;
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+.ad {
+    color:black;
+    font-size:13px;
+    font-weight:bold;
+}
+.ae {
+    color:green;
+    font-size:13px;
+    font-family:monaco;
+}
+#af {
+    border:6px  red;
+    text-align:center;
+    background-color:#ff352b;
+    padding:20px;
+    border-radius:30px;
+    font-family:arial;
+    font-size:22px;
+    width:300px;
+    height:10px;
+}
+.ba {
+    border-radius:90px;
+    height:70px;
+    width:70px;
+}
+.bb {
+    font-weight:bold;
+    font-size:20px;
+    position: absolute;
+    left:85px;
+    top:270px;
+}
+.bd {
+    font-weight:bold;
+    font-size:12px;
+}
+.bf {
+    font-size:10px;
+}
+.ca {
+    font-weight:bold;
+    font-size:20px;
+}
+.cb {
+    font-weight:bold;
+    font-size:20px;
+    position: absolute;
+    left:85px;
+    top:985px;    
+}
+.cc {
+    font-size:10px;
+    position: absolute;
+    left:85px;
+    top:1010px;
+}
+.cd {
+    font-weight:bold;
+    font-size:20px;
+    position: absolute;
+    left:85px;
+    top:1075px;
+}
+.ce {
+    font-size:10px;
+    position: absolute;
+    left:85px;
+    top:1105px;
+}
+.cf {
+    font-weight:bold;
+    font-size:20px;
+    position: absolute;
+    left:85px;
+    top:1190px;
+}
+.cg {
+    font-size:10px;
+    position: absolute;
+    left:85px;
+    top:1220px;
+}
+.ch {
+    font-weight:bold;
+    font-size:20px;
+    position: absolute;
+    left:85px;
+    top:1290px;
+}
+.ci {
+    font-size:10px;
+    position: absolute;
+    left:85px;
+    top:1320px;
+}
+#boy {
+    background: blue;
+    position: fixed;
+    bottom: 0px;
+    right:0px;
+    left:0px;
+    height:60px;
+    
+}
+.ma {
+    font-family:monaco;
+    font-weight:bold;
+    position: absolute;
+    left:40px;
+    top:10px;
+    font-size:15px;
+}
+.joe {
+    font-family:monaco;
+    font-weight:bold;
+    position: absolute;
+    left:160px;
+    bottom:10px;
+    font-size:10px;
+}
